@@ -1,5 +1,5 @@
 # minecraft-win95
-A patch that makes Minecraft Classic 0.0.12a-dev playable with Windows 95. 
+A patch that makes Minecraft Classic 0.0.12a-dev (on launcher, c0.0.11a) playable with Windows 95. 
 
 I'm not going to upload the patched 0.0.12a-dev JAR file because of legal reasons.
 
