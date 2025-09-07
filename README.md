@@ -22,6 +22,7 @@ Make sure that LWJGL's .jar files and the native folder is in the same directory
 - 0.0.12a-dev is the same one as c0.0.11a in the Minecraft Launcher.
 - **0.99** is the latest version of LWJGL that works in Windows 95 AND launches Minecraft, newer versions will give a DLL initialization error or a device not functioning error.
 - Running 0.0.12a-dev without patches will open the window, but it will give a missing GLU error, because GLU is added in LWJGL 2.0 beta 1.
+- **THIS IS ONLY FOR EDUCATIONAL PURPOSES ONLY. I DO NOT OWN MINECRAFT, ALL RIGHTS ARE OWNED BY MOJANG STUDIOS**
 
 ## Screenshots
 
