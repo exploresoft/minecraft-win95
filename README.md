@@ -24,8 +24,10 @@ Make sure that LWJGL's .jar files and the native folder is in the same directory
 - Running 0.0.12a-dev without patches will open the window, but it will give a missing GLU error, because GLU is added in LWJGL 2.0 beta 1.
 - **THIS IS ONLY FOR EDUCATIONAL PURPOSES ONLY. I DO NOT OWN MINECRAFT, ALL RIGHTS ARE OWNED BY MOJANG STUDIOS**
 
-## Screenshots
+## Videos
 
-<img width="640" height="480" alt="Monitor_1_20250907-173827-134" src="https://github.com/user-attachments/assets/4d1d3e4a-eebc-4bbd-801a-210f3eb5c6bd" />
 
-<img width="640" height="480" alt="Monitor_1_20250907-182851-375" src="https://github.com/user-attachments/assets/cc2ff793-f8d9-419f-a6eb-00067d09f269" />
+
+
+https://github.com/user-attachments/assets/2602b94a-cb07-43ef-826d-11280854b5e3
+
